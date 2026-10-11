@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pytest-dev/pytest-pastebin",
+  "@type": "gh:Repository",
+  "gh:name": "pytest-pastebin",
+  "gh:owner": "pytest-dev",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/pytest-dev/pytest-pastebin/commit/072ccbdb5a4ebbf1b41ff78f644880a3d0388291",
+      "git:hexsha": "072ccbdb5a4ebbf1b41ff78f644880a3d0388291",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "v1.0.0"
+    }
+  ]
+}

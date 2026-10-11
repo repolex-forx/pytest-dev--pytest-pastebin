@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-pastebin",
+  "versions": [
+    {
+      "commit": "072ccbdb5a4ebbf1b41ff78f644880a3d0388291",
+      "parsed_at": "2026-10-11T02:54:56.475583+00:00",
+      "tag": "v1.0.0",
+      "filetree": "filetree/072ccbdb5a4ebbf1b41ff78f644880a3d0388291.nq.gz",
+      "blobs": [
+        "blob/15dbffbb6fcf221c03cb052e61a8523bacdc5e65.nq.gz",
+        "blob/27a4aa34d5b9f83cdb727c81bcb162b25128b281.nq.gz",
+        "blob/e381e2618fa219e99f609f4aa1eaa9819b3c36b6.nq.gz",
+        "blob/6c5886e04363a482ba04555c612e8520b3af7d33.nq.gz",
+        "blob/95f7ec2cc987337be5e0b7ae42a2ea0a16abb720.nq.gz",
+        "blob/8ef554fa41589f064f67f8d2389f80c6bed9c346.nq.gz",
+        "blob/949c02fd95bf592a95c5d92166b3247b3a247b2a.nq.gz",
+        "blob/bc711e55fefdd729816958fa0ce1563b55217c29.nq.gz",
+        "blob/852089cc79b847f1b904defd3cae7a090a76fb51.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/050d2ad00966b3bc2199f2bcd569ec7d8a1115e6.nq.gz",
+        "blob/857cf69df8d8b39f1a13b5a32bb6674f38393e79.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
